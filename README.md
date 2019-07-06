@@ -1,13 +1,12 @@
 # PA-Voter-Analysis
 # 7/6/2019
 
-In this project we will run an analysis on voters by city in Pennsylvania. 
+# In this project we will run an analysis on voters by city in Pennsylvania. 
 
-Analyze gender count by city 
-Get a total of male, female and other 
+# PA is considered a battleground state with 20 electoral votes. The prior 6 elections (1992 - 2016), PA as a whole voted Democrats.
 
-count of party list (republican, democrat, other)
-how many voters changed party list from Republican to Democrat
-how many voters changed party list from Democrat to Republican
-how many voters changed party list from Republican to Other
-how many voters changed party list from Democrat to Other
+# Analyze gender count
+# Age of active voters
+# number of active vs inactive voters
+# count of political party affiliation (Republican, Democrat, other)
+
